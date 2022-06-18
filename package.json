@@ -1,0 +1,25 @@
+{
+  "name": "pastiin-nodejs",
+  "version": "1.0.0",
+  "description": "restful api express-mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fikihfirmansyah/pastiin-nodejs.git"
+  },
+  "keywords": [
+    "rest",
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": "Fikih Firmansyah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fikihfirmansyah/pastiin-nodejs/issues"
+  },
+  "homepage": "https://github.com/fikihfirmansyah/pastiin-nodejs#readme"
+}
